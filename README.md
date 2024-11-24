@@ -205,6 +205,4 @@ Produtos no estoque:
 - **Flexibilidade para Melhorias**: Substitua o array por `ArrayList` para maior eficiência no futuro.
 
 Este sistema básico de estoque é um ótimo exemplo para adicionar ao seu portfólio e demonstra habilidades essenciais em lógica de programação e manipulação de dados. 💼
-``` 
-
-O README agora está mais visualmente atraente e organizado, usando emojis para destacar seções e uma estrutura clara para fácil leitura.
+```

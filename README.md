@@ -205,4 +205,3 @@ Produtos no estoque:
 - **Flexibilidade para Melhorias**: Substitua o array por `ArrayList` para maior eficiência no futuro.
 
 Este sistema básico de estoque é um ótimo exemplo para adicionar ao seu portfólio e demonstra habilidades essenciais em lógica de programação e manipulação de dados. 💼
-```
